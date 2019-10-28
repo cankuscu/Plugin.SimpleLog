@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.SimpleLogger</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.SimpleLogger.CrossSimpleLogger">
+            <summary>
+            Cross SimpleLogger
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleLogger.CrossSimpleLogger.IsSupported">
+            <summary>
+            Gets if the plugin is supported on the current platform.
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleLogger.CrossSimpleLogger.Current">
+            <summary>
+            Current plugin implementation to use
+            </summary>
+        </member>
+    </members>
+</doc>

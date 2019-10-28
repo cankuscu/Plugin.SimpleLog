@@ -1,0 +1,10 @@
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLogger.deps.json
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLogger.dll
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLogger.pdb
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLogger.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\SimpleLogger.csprojAssemblyReference.cache
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\SimpleLogger.AssemblyInfoInputs.cache
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\SimpleLogger.AssemblyInfo.cs
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\Plugin.SimpleLogger.dll
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\Plugin.SimpleLogger.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard2.0\Plugin.SimpleLogger.pdb
