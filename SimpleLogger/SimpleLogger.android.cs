@@ -27,10 +27,7 @@ namespace Plugin.SimpleLogger
         /// <param name="datetimeFormat"></param>
         public SimpleLoggerImplementation(string filename = "log.txt", string foldername = "", string cultureString = "en-US", string datetimeFormat = "G")
         {
-            _datetimeFormat = datetimeFormat;
-            _filename = filename;
-            _foldername = foldername;
-            _cultureInfo = new CultureInfo(cultureString);
+            Configure(filename, foldername, cultureString, datetimeFormat);
             CheckFolderExists();
         }
 
@@ -89,6 +86,20 @@ namespace Plugin.SimpleLogger
             {
                 return null;
             }
+        }
+
+        public void Configure(string filename = "SimpleLogger.txt", string foldername = "SimpleLog", string cultureInfo = "en-US", string datetimeFormat = "G")
+        {
+            _filename = filename;
+            _foldername = foldername;
+            _cultureInfo = new CultureInfo(cultureInfo);
+            _datetimeFormat = datetimeFormat;
+            CheckFolderExists();
+        }
+
+        public string GetLogPath()
+        {
+            return _logPath;
         }
 
         private enum LogType

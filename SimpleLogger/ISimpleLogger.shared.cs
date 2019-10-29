@@ -13,5 +13,7 @@ namespace Plugin.SimpleLogger
         void Info(string text);
 
         string GetLogText();
+        void Configure(string filename = "SimpleLogger.txt",  string foldername = "SimpleLog", string cultureInfo = "en-US", string datetimeFormat = "G");
+        string GetLogPath();
     }
 }
