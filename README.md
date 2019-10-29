@@ -2,9 +2,19 @@
 Simple logger for Xamarin
 
 ## Description
-It's a simple logger, with warn, error, critical and info methods.
-You can also get log file text with **.GetLogText();**
+It's a simple logger, logs with **level** and **datetime** stamp.
+Can be configured to suit your needs.
 
+## Defaults
+Datetime format is **"G"**,
+CultureInfo is set to **"en-US"**,
+Folder is not set, places txt to file to default path
+Filename is **log.txt**
+
+## Configuration
+You can set **filename**, **foldername**, **culture** and **datetime format**.
+ex: CrossSimpleLogger.Current.Configure("mylog.txt", "Logs", "tr-TR", "G");
+[See for DateTime format strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings)
 
 ## Example Usage
 CrossSimpleLogger.Current.Critical("log this");
