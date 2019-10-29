@@ -1,8 +1,3 @@
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLogger.pdb
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLogger.xml
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLogger.apk
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLogger-Signed.apk
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\build.props
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\adb.props
@@ -14,9 +9,14 @@ C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\R.txt
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\R.cs.flag
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\SimpleLogger.AssemblyInfoInputs.cache
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\SimpleLogger.AssemblyInfo.cs
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\Plugin.SimpleLogger.pdb
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\android\bin\Plugin.SimpleLogger.apk
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\uploadflags.txt
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\stamp\_BuildAdditionalResourcesCache.stamp
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.pdb
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.xml
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.apk
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog-Signed.apk
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\Plugin.SimpleLog.pdb
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\monoandroid81\81\android\bin\Plugin.SimpleLog.apk

@@ -1,9 +1,10 @@
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLogger.deps.json
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLogger.pdb
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLogger.xml
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\SimpleLogger.AssemblyInfoInputs.cache
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\SimpleLogger.AssemblyInfo.cs
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLogger.xml
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLogger.pdb
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\SimpleLogger.csprojAssemblyReference.cache
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.deps.json
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.pdb
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLog.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\netstandard1.0\Plugin.SimpleLog.pdb

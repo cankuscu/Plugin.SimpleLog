@@ -1,10 +1,10 @@
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLogger.pdb
-C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLogger.xml
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\optimized\
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\SimpleLogger.csprojAssemblyReference.cache
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\SimpleLogger.AssemblyInfoInputs.cache
 C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\SimpleLogger.AssemblyInfo.cs
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLogger.dll
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLogger.xml
-C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLogger.pdb
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLog.pdb
+C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLog.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLog.dll
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLog.xml
+C:\workspace\SimpleLogger\SimpleLogger\obj\Release\xamarin.ios10\Plugin.SimpleLog.pdb

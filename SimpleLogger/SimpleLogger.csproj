@@ -1,4 +1,4 @@
-<Project Sdk="MSBuild.Sdk.Extras/2.0.41">
+﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.41">
 
   <PropertyGroup>
     <!--Work around so the conditions work below-->
@@ -9,15 +9,15 @@
     netstandard1.0;netstandard2.0;MonoAndroid81;Xamarin.iOS10;uap10.0.16299;Xamarin.TVOS10;Xamarin.WatchOS10;Xamarin.Mac20;Tizen40
     For UWP update the version number with a version number you have installed.
     -->
-    <AssemblyName>Plugin.SimpleLogger</AssemblyName>
-    <RootNamespace>Plugin.SimpleLogger</RootNamespace>
-    <PackageId>Plugin.SimpleLogger</PackageId>
+    <AssemblyName>Plugin.SimpleLog</AssemblyName>
+    <RootNamespace>Plugin.SimpleLog</RootNamespace>
+    <PackageId>Plugin.SimpleLog</PackageId>
     
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyFileVersion>1.0.0.0</AssemblyFileVersion>
-    <Version>1.0.0.0</Version>
-    <PackageVersion>1.0.0.0</PackageVersion>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <AssemblyFileVersion>1.0.0.1</AssemblyFileVersion>
+    <Version>1.0.0.1</Version>
+    <PackageVersion>1.0.0.1</PackageVersion>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
     <LangVersion>default</LangVersion>
@@ -34,7 +34,7 @@
     <PackageProjectUrl>https://github.com/cankuscu/Xamarin.Logger</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cankuscu/Xamarin.Logger</RepositoryUrl>
     <PackageReleaseNotes>https://github.com/cankuscu/Xamarin.Logger</PackageReleaseNotes>
-    <PackageIconUrl>ICON URL</PackageIconUrl>
+    <PackageIconUrl></PackageIconUrl>
     <PackageTags>xamarin, ios, android, xamarin.forms, plugin, SimpleLogger</PackageTags>
     
     <Title>SimpleLogger Plugin for Xamarin</Title>
@@ -69,9 +69,5 @@
 
   <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.iOS')) ">
     <Compile Include="**\*.apple.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Remove="LogType.shared.cs" />
   </ItemGroup>
 </Project>

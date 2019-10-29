@@ -2060,10 +2060,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "restore": {
       "projectUniqueName": "C:\\workspace\\SimpleLogger\\SimpleLogger\\SimpleLogger.csproj",
-      "projectName": "Plugin.SimpleLogger",
+      "projectName": "Plugin.SimpleLog",
       "projectPath": "C:\\workspace\\SimpleLogger\\SimpleLogger\\SimpleLogger.csproj",
       "packagesPath": "C:\\Users\\can\\.nuget\\packages\\",
       "outputPath": "C:\\workspace\\SimpleLogger\\SimpleLogger\\obj\\",

@@ -18,8 +18,8 @@ using System.Reflection;
     "h Date")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Plugin.SimpleLogger (MonoAndroid81)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Plugin.SimpleLogger")]
+[assembly: System.Reflection.AssemblyProductAttribute("Kuscu.SimpleLogger (MonoAndroid81)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Kuscu.SimpleLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 

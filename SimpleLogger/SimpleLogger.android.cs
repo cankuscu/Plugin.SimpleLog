@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Text;
-using Android.App;
-using Android.Media.Audiofx;
-using Java.Sql;
 
 namespace Plugin.SimpleLogger
 {

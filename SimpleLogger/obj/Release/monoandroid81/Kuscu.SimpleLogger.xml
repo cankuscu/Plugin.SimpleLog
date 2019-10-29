@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kuscu.SimpleLogger</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.SimpleLogger.CrossSimpleLogger">
+            <summary>
+            Cross SimpleLogger
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleLogger.CrossSimpleLogger.IsSupported">
+            <summary>
+            Gets if the plugin is supported on the current platform.
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleLogger.CrossSimpleLogger.Current">
+            <summary>
+            Current plugin implementation to use
+            </summary>
+        </member>
+        <member name="T:Plugin.SimpleLogger.SimpleLoggerImplementation">
+            <summary>
+            Interface for SimpleLogger
+            </summary>
+        </member>
+        <member name="M:Plugin.SimpleLogger.SimpleLoggerImplementation.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            You can pass culture string and datetime format
+            </summary>
+            <param name="filename"></param>
+            <param name="foldername"></param>
+            <param name="cultureString"></param>
+            <param name="datetimeFormat"></param>
+        </member>
+    </members>
+</doc>

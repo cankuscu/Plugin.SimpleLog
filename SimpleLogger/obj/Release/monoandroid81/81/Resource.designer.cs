@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Plugin.SimpleLogger.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Plugin.SimpleLog.Resource", IsApplication=false)]
 
-namespace Plugin.SimpleLogger
+namespace Plugin.SimpleLog
 {
 	
 	

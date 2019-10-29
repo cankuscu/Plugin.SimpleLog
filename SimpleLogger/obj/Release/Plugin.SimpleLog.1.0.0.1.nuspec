@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Plugin.SimpleLog</id>
+    <version>1.0.0.1</version>
+    <title>SimpleLogger Plugin for Xamarin</title>
+    <authors>Can Kuscu</authors>
+    <owners>Can Kuscu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/cankuscu/Xamarin.Logger</licenseUrl>
+    <projectUrl>https://github.com/cankuscu/Xamarin.Logger</projectUrl>
+    <description>a Simple Logger for Xamarin with Info, Error, Critical and Warn methods, logs with Date</description>
+    <releaseNotes>https://github.com/cankuscu/Xamarin.Logger</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>xamarin, ios, android, xamarin.forms, plugin, SimpleLogger</tags>
+    <repository url="https://github.com/cankuscu/Xamarin.Logger" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="MonoAndroid8.1" />
+      <group targetFramework="Xamarin.iOS1.0" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid8.1" />
+      <frameworkAssembly assemblyName="System.Drawing.Common.dll" targetFramework="Xamarin.iOS1.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.dll" target="lib\netstandard1.0\Plugin.SimpleLog.dll" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard1.0\Plugin.SimpleLog.xml" target="lib\netstandard1.0\Plugin.SimpleLog.xml" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLog.dll" target="lib\netstandard2.0\Plugin.SimpleLog.dll" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\netstandard2.0\Plugin.SimpleLog.xml" target="lib\netstandard2.0\Plugin.SimpleLog.xml" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLog.dll" target="lib\xamarinios10\Plugin.SimpleLog.dll" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\xamarin.ios10\Plugin.SimpleLog.xml" target="lib\xamarinios10\Plugin.SimpleLog.xml" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.dll" target="lib\monoandroid81\Plugin.SimpleLog.dll" />
+    <file src="C:\workspace\SimpleLogger\SimpleLogger\bin\Release\monoandroid81\81\Plugin.SimpleLog.xml" target="lib\monoandroid81\Plugin.SimpleLog.xml" />
+  </files>
+</package>
